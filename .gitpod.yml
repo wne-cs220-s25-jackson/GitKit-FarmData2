@@ -1,0 +1,23 @@
+# Image of workspace. Learn more: https://www.gitpod.io/docs/configure/workspaces/workspace-image
+image: gitpod/workspace-full:latest
+
+tasks:
+  - name: Install KitClient (for VSCode Dev Container in GitPod)
+    command: |
+        mkdir -p /home/gitpod/.kitclient
+        git clone https://gitlab.com/hfossedu/kits/KitClient.git /home/gitpod/.local/lib/kitclient
+        chmod +x /home/gitpod/.local/lib/kitclient/src/install-kit-features-into-client.sh
+        sudo ln -s /home/gitpod/.local/lib/kitclient/src/install-kit-features-into-client.sh /usr/share/git-core/templates/hooks/post-checkout
+        cat /home/gitpod/.local/lib/kitclient/src/bashrc.additions >> /home/gitpod/.bashrc
+        mkdir -p "$HOME/.kitclient"
+        git config --global user.name > "$HOME/.kitclient/kituser.txt"
+        git config --global --add safe.directory "${PROJ_ROOT}"
+        git config --global pull.ff only
+        # git config --global credential.helper store
+        git config --global init.defaultBranch main
+        git config --global merge.conflictstyle diff3
+        git config --global merge.tool vscode
+        git config --global mergetool.keepbackup false
+        git config --global mergetool.vscode.cmd 'code --wait $MERGED'
+        "${GITPOD_REPO_ROOT}/.kit/install-features-into-client/run.sh"
+        exec bash
