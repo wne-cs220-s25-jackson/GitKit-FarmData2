@@ -4,7 +4,7 @@ FarmData2 welcomes participation and contributions. There are many ways to contr
 
 ## Code of Conduct ##
 
-To promote an open, welcoming, inclusive and harassment-free experience, all engagement with FarmData2 is governed by the community standards expressed in the [Contributor Covenent](CODE_OF_CONDUCT.md).
+To promote an open, welcoming, inclusive and harassment-free experience, all engagement with FarmData2 is governed by the community standards expressed in the [Contributor Covenant](CODE_OF_CONDUCT.md).
 
 ## Licensing ##
 
