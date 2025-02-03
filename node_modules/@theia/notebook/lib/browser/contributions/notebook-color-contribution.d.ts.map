@@ -1,0 +1,1 @@
+{"version":3,"file":"notebook-color-contribution.d.ts","sourceRoot":"","sources":["../../../src/browser/contributions/notebook-color-contribution.ts"],"names":[],"mappings":"AAgBA,OAAO,EAAE,iBAAiB,EAAE,MAAM,wDAAwD,CAAC;AAC3F,OAAO,EAAE,aAAa,EAAE,MAAM,wCAAwC,CAAC;AAIvE,qBACa,yBAA0B,YAAW,iBAAiB;IAC/D,cAAc,CAAC,MAAM,EAAE,aAAa,GAAG,IAAI;CAoP9C"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"dnd-file-content-store.d.ts","sourceRoot":"","sources":["../../../../src/main/browser/view/dnd-file-content-store.ts"],"names":[],"mappings":"AAkBA,qBACa,mBAAmB;IAC5B,OAAO,CAAC,MAAM,CAAC,EAAE,CAAa;IAC9B,OAAO,CAAC,KAAK,CAAgC;IAE7C,OAAO,CAAC,CAAC,EAAE,IAAI,GAAG,MAAM;IAMxB,UAAU,CAAC,EAAE,EAAE,MAAM,GAAG,OAAO;IAI/B,OAAO,CAAC,EAAE,EAAE,MAAM,GAAG,IAAI;CAQ5B"}

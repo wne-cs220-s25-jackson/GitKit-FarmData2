@@ -1,0 +1,1 @@
+{"version":3,"file":"scm-frontend-module.d.ts","sourceRoot":"","sources":["../../src/browser/scm-frontend-module.ts"],"names":[],"mappings":"AAgBA,OAAO,mCAAmC,CAAC;AAE3C,OAAO,EAAE,UAAU,EAAE,eAAe,EAAE,SAAS,EAAE,MAAM,8BAA8B,CAAC;;AA6BtF,wBA2EG;AAEH,wBAAgB,sBAAsB,CAAC,MAAM,EAAE,UAAU,CAAC,SAAS,GAAG,SAAS,CAiB9E;AAED,wBAAgB,wBAAwB,CAAC,MAAM,EAAE,UAAU,CAAC,SAAS,GAAG,SAAS,CAKhF"}

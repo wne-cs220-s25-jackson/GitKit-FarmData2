@@ -1,0 +1,1 @@
+{"version":3,"file":"theia-localization-contribution.d.ts","sourceRoot":"","sources":["../../../src/node/i18n/theia-localization-contribution.ts"],"names":[],"mappings":"AAiBA,OAAO,EAAE,wBAAwB,EAAE,oBAAoB,EAAE,MAAM,6BAA6B,CAAC;AAE7F,qBACa,6BAA8B,YAAW,wBAAwB;IACpE,qBAAqB,CAAC,QAAQ,EAAE,oBAAoB,GAAG,OAAO,CAAC,IAAI,CAAC;CAkB7E"}

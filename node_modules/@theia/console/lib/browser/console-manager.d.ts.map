@@ -1,0 +1,1 @@
+{"version":3,"file":"console-manager.d.ts","sourceRoot":"","sources":["../../src/browser/console-manager.ts"],"names":[],"mappings":"AAiBA,OAAO,EAAE,gBAAgB,EAAE,MAAM,yBAAyB,CAAC;AAC3D,OAAO,EAAE,aAAa,EAAE,MAAM,kBAAkB,CAAC;AAEjD,qBACa,cAAc;IAGvB,SAAS,CAAC,QAAQ,CAAC,KAAK,EAAE,gBAAgB,CAAC;IAE3C,IAAI,aAAa,IAAI,aAAa,GAAG,SAAS,CAG7C;IAED,IAAI,cAAc,IAAI,aAAa,GAAG,SAAS,CAG9C;CAEJ"}

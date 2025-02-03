@@ -1,0 +1,1 @@
+{"version":3,"file":"notification-main.d.ts","sourceRoot":"","sources":["../../../src/main/browser/notification-main.ts"],"names":[],"mappings":"AAiBA,OAAO,EAAE,UAAU,EAAE,MAAM,8BAA8B,CAAC;AAC1D,OAAO,EAAE,WAAW,EAAE,MAAM,2BAA2B,CAAC;AACxD,OAAO,EAAE,yBAAyB,EAAE,MAAM,mCAAmC,CAAC;AAE9E,qBAAa,oBAAqB,SAAQ,yBAAyB;gBACnD,GAAG,EAAE,WAAW,EAAE,SAAS,EAAE,UAAU,CAAC,SAAS;CAGhE"}

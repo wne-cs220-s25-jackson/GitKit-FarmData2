@@ -1,0 +1,107 @@
+import { ScmExt, SourceControlGroupFeatures, ScmMain, SourceControlProviderFeatures, ScmRawResourceSplices, ScmRawResourceGroup } from '../../common/plugin-api-rpc';
+import { ScmProvider, ScmResource, ScmResourceDecorations, ScmResourceGroup, ScmCommand } from '@theia/scm/lib/browser/scm-provider';
+import { RPCProtocol } from '../../common/rpc-protocol';
+import { interfaces } from '@theia/core/shared/inversify';
+import { Event } from '@theia/core/lib/common/event';
+import { DisposableCollection } from '@theia/core/lib/common/disposable';
+import URI from '@theia/core/lib/common/uri';
+import { URI as vscodeURI } from '@theia/core/shared/vscode-uri';
+import { Splice } from '../../common/arrays';
+import { UriComponents } from '../../common/uri-components';
+import { ColorRegistry } from '@theia/core/lib/browser/color-registry';
+import { PluginSharedStyle } from './plugin-shared-style';
+export declare class PluginScmResourceGroup implements ScmResourceGroup {
+    readonly handle: number;
+    provider: PluginScmProvider;
+    features: SourceControlGroupFeatures;
+    label: string;
+    id: string;
+    readonly resources: ScmResource[];
+    private readonly onDidSpliceEmitter;
+    readonly onDidSplice: Event<Splice<ScmResource>>;
+    get hideWhenEmpty(): boolean;
+    private readonly onDidChangeEmitter;
+    readonly onDidChange: Event<void>;
+    constructor(handle: number, provider: PluginScmProvider, features: SourceControlGroupFeatures, label: string, id: string);
+    splice(start: number, deleteCount: number, toInsert: ScmResource[]): void;
+    updateGroup(features: SourceControlGroupFeatures): void;
+    updateGroupLabel(label: string): void;
+    dispose(): void;
+}
+export declare class PluginScmResource implements ScmResource {
+    private readonly proxy;
+    private readonly sourceControlHandle;
+    private readonly groupHandle;
+    readonly handle: number;
+    readonly sourceUri: URI;
+    readonly group: PluginScmResourceGroup;
+    readonly decorations: ScmResourceDecorations;
+    readonly contextValue: string | undefined;
+    readonly command: ScmCommand | undefined;
+    constructor(proxy: ScmExt, sourceControlHandle: number, groupHandle: number, handle: number, sourceUri: URI, group: PluginScmResourceGroup, decorations: ScmResourceDecorations, contextValue: string | undefined, command: ScmCommand | undefined);
+    open(): Promise<void>;
+}
+export declare class PluginScmProvider implements ScmProvider {
+    private readonly proxy;
+    private readonly colors;
+    private readonly sharedStyle;
+    private readonly _handle;
+    private readonly _contextValue;
+    private readonly _label;
+    private readonly _rootUri;
+    private disposables;
+    private _id;
+    get id(): string;
+    readonly groups: PluginScmResourceGroup[];
+    private readonly groupsByHandle;
+    private readonly onDidChangeResourcesEmitter;
+    readonly onDidChangeResources: Event<void>;
+    private features;
+    get handle(): number;
+    get label(): string;
+    get rootUri(): string;
+    get contextValue(): string;
+    get commitTemplate(): string;
+    get acceptInputCommand(): ScmCommand | undefined;
+    get statusBarCommands(): ScmCommand[] | undefined;
+    get count(): number | undefined;
+    private readonly onDidChangeCommitTemplateEmitter;
+    readonly onDidChangeCommitTemplate: Event<string>;
+    private readonly onDidChangeStatusBarCommandsEmitter;
+    get onDidChangeStatusBarCommands(): Event<ScmCommand[]>;
+    private readonly onDidChangeEmitter;
+    readonly onDidChange: Event<void>;
+    constructor(proxy: ScmExt, colors: ColorRegistry, sharedStyle: PluginSharedStyle, _handle: number, _contextValue: string, _label: string, _rootUri: vscodeURI | undefined, disposables: DisposableCollection);
+    updateSourceControl(features: SourceControlProviderFeatures): void;
+    registerGroups(resourceGroups: ScmRawResourceGroup[]): void;
+    updateGroup(handle: number, features: SourceControlGroupFeatures): void;
+    updateGroupLabel(handle: number, label: string): void;
+    spliceGroupResourceStates(splices: ScmRawResourceSplices[]): void;
+    private toIconClass;
+    unregisterGroup(handle: number): void;
+    dispose(): void;
+}
+export declare class ScmMainImpl implements ScmMain {
+    private readonly proxy;
+    private readonly scmService;
+    private repositories;
+    private repositoryDisposables;
+    private readonly disposables;
+    private readonly colors;
+    private readonly sharedStyle;
+    constructor(rpc: RPCProtocol, container: interfaces.Container);
+    dispose(): void;
+    $registerSourceControl(handle: number, id: string, label: string, rootUri: UriComponents | undefined): Promise<void>;
+    $updateSourceControl(handle: number, features: SourceControlProviderFeatures): Promise<void>;
+    $unregisterSourceControl(handle: number): Promise<void>;
+    $registerGroups(sourceControlHandle: number, groups: ScmRawResourceGroup[], splices: ScmRawResourceSplices[]): void;
+    $updateGroup(sourceControlHandle: number, groupHandle: number, features: SourceControlGroupFeatures): void;
+    $updateGroupLabel(sourceControlHandle: number, groupHandle: number, label: string): void;
+    $spliceResourceStates(sourceControlHandle: number, splices: ScmRawResourceSplices[]): void;
+    $unregisterGroup(sourceControlHandle: number, handle: number): void;
+    $setInputBoxValue(sourceControlHandle: number, value: string): void;
+    $setInputBoxPlaceholder(sourceControlHandle: number, placeholder: string): void;
+    $setInputBoxVisible(sourceControlHandle: number, visible: boolean): void;
+    $setInputBoxEnabled(sourceControlHandle: number, enabled: boolean): void;
+}
+//# sourceMappingURL=scm-main.d.ts.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"backend-application-hosts.d.ts","sourceRoot":"","sources":["../../../src/node/hosting/backend-application-hosts.ts"],"names":[],"mappings":"AAkBA;;;;;;;;GAQG;AACH,qBACa,uBAAuB;IAEhC,SAAS,CAAC,QAAQ,CAAC,MAAM,cAAqB;IAC9C;;;;OAIG;IACH,IAAI,KAAK,IAAI,WAAW,CAAC,MAAM,CAAC,CAE/B;IAGD,SAAS,CAAC,IAAI,IAAI,IAAI;IAYtB;;OAEG;IACH,aAAa,IAAI,OAAO;CAG3B"}

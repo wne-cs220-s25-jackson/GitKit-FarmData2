@@ -1,0 +1,1 @@
+{"version":3,"file":"electron-api-main.d.ts","sourceRoot":"","sources":["../../src/electron-main/electron-api-main.ts"],"names":[],"mappings":"AAkBA,OAAO,EAAE,uBAAuB,EAAE,mCAAmC,EAAE,MAAM,yDAAyD,CAAC;AACvI,OAAO,EAAE,YAAY,EAAE,MAAM,aAAa,CAAC;AAK3C,qBACa,WAAY,YAAW,mCAAmC;IACnE,OAAO,CAAC,WAAW,EAAE,uBAAuB,GAAG,YAAY,CAAC,IAAI,CAAC;CAmDpE"}

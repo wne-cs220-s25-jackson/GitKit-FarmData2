@@ -1,0 +1,1 @@
+{"version":3,"file":"problem-layout-migrations.d.ts","sourceRoot":"","sources":["../../../src/browser/problem/problem-layout-migrations.ts"],"names":[],"mappings":"AAiBA,OAAO,EAAE,+BAA+B,EAAE,iBAAiB,EAAE,MAAM,qDAAqD,CAAC;AAIzH,qBACa,8BAA+B,YAAW,+BAA+B;IAClF,QAAQ,CAAC,aAAa,KAAO;IAC7B,mBAAmB,CAAC,IAAI,EAAE,iBAAiB,GAAG,iBAAiB,GAAG,SAAS;CAO9E"}

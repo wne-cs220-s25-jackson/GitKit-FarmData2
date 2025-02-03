@@ -1,0 +1,1 @@
+{"version":3,"file":"electron-frontend-application-state.d.ts","sourceRoot":"","sources":["../../../src/electron-browser/window/electron-frontend-application-state.ts"],"names":[],"mappings":"AAiBA,OAAO,EAAE,wBAAwB,EAAE,+BAA+B,EAAE,MAAM,0CAA0C,CAAC;AAErH,qBACa,uCAAwC,SAAQ,+BAA+B;cACrE,UAAU,CAAC,KAAK,EAAE,wBAAwB,GAAG,IAAI;CAIvE"}

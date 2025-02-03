@@ -1,0 +1,1 @@
+{"version":3,"file":"vsx-extension-argument-processor.d.ts","sourceRoot":"","sources":["../../src/browser/vsx-extension-argument-processor.ts"],"names":[],"mappings":"AAiBA,OAAO,EAAE,iBAAiB,EAAE,MAAM,uCAAuC,CAAC;AAG1E,qBACa,6BAA8B,YAAW,iBAAiB;IAEnE,eAAe,CAAC,GAAG,EAAE,OAAO,GAAG,OAAO;CAQzC"}

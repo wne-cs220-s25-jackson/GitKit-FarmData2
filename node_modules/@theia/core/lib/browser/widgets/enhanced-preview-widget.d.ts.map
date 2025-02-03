@@ -1,0 +1,1 @@
+{"version":3,"file":"enhanced-preview-widget.d.ts","sourceRoot":"","sources":["../../../src/browser/widgets/enhanced-preview-widget.ts"],"names":[],"mappings":"AAkBA,MAAM,WAAW,qBAAqB;IAClC,sBAAsB,IAAI,IAAI,GAAG,SAAS,CAAC;CAC9C;AAED,yBAAiB,qBAAqB,CAAC;IACnC,SAAgB,EAAE,CAAC,GAAG,EAAE,OAAO,GAAG,GAAG,IAAI,qBAAqB,CAE7D;CACJ"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"channel.spec.d.ts","sourceRoot":"","sources":["../../../src/common/message-rpc/channel.spec.ts"],"names":[],"mappings":"AAmBA,OAAO,EAAsB,iBAAiB,EAAmB,MAAM,WAAW,CAAC;AAInF;;GAEG;AACH,qBAAa,WAAW;IACpB,QAAQ,CAAC,IAAI,EAAE,iBAAiB,CAM7B;IACH,QAAQ,CAAC,KAAK,EAAE,iBAAiB,CAM9B;CACN"}

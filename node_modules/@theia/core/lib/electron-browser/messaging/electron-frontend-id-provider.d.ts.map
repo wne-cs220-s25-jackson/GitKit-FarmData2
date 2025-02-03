@@ -1,0 +1,1 @@
+{"version":3,"file":"electron-frontend-id-provider.d.ts","sourceRoot":"","sources":["../../../src/electron-browser/messaging/electron-frontend-id-provider.ts"],"names":[],"mappings":"AAiBA,OAAO,EAAE,kBAAkB,EAAE,MAAM,8CAA8C,CAAC;AAElF,qBACa,0BAA2B,YAAW,kBAAkB;IACjE,KAAK,IAAI,MAAM;CAGlB"}

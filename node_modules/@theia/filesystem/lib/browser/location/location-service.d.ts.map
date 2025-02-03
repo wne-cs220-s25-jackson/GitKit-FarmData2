@@ -1,0 +1,1 @@
+{"version":3,"file":"location-service.d.ts","sourceRoot":"","sources":["../../../src/browser/location/location-service.ts"],"names":[],"mappings":"AAgBA,OAAO,GAAG,MAAM,4BAA4B,CAAC;AAE7C,MAAM,WAAW,eAAe;IAC5B,QAAQ,EAAE,GAAG,GAAG,SAAS,CAAC;IAC1B,MAAM,IAAI,OAAO,CAAC,GAAG,EAAE,CAAC,CAAC;CAC5B"}

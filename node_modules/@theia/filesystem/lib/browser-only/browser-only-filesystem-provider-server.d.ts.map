@@ -1,0 +1,1 @@
+{"version":3,"file":"browser-only-filesystem-provider-server.d.ts","sourceRoot":"","sources":["../../src/browser-only/browser-only-filesystem-provider-server.ts"],"names":[],"mappings":"AAiBA,OAAO,EAAE,wBAAwB,EAAE,MAAM,uCAAuC,CAAC;AACjF,OAAO,EAAE,KAAK,EAAE,MAAM,aAAa,CAAC;AAEpC;;;;GAIG;AACH,qBACa,mCAAoC,SAAQ,wBAAwB;IAG7E,mBAAmB,aAAc;IACjC,oBAAoB,aAAc;CACrC"}

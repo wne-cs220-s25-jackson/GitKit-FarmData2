@@ -1,0 +1,1 @@
+{"version":3,"file":"editor-decorator.d.ts","sourceRoot":"","sources":["../../../src/browser/decorations/editor-decorator.ts"],"names":[],"mappings":"AAiBA,OAAO,EAAE,UAAU,EAAE,MAAM,WAAW,CAAC;AACvC,OAAO,EAAE,gBAAgB,EAAE,MAAM,qBAAqB,CAAC;AAEvD,8BACsB,eAAe;IAEjC,SAAS,CAAC,QAAQ,CAAC,kBAAkB,wBAA+B;IAEpE,SAAS,CAAC,cAAc,CAAC,MAAM,EAAE,UAAU,EAAE,cAAc,EAAE,gBAAgB,EAAE,GAAG,IAAI;CAUzF"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"mini-browser-service.d.ts","sourceRoot":"","sources":["../../src/common/mini-browser-service.ts"],"names":[],"mappings":"AAgBA,eAAO,MAAM,sBAAsB,mCAAmC,CAAC;AACvE,eAAO,MAAM,kBAAkB,eAA+B,CAAC;AAC/D,MAAM,WAAW,kBAAkB;IAE/B;;;;;OAKG;IACH,uBAAuB,IAAI,OAAO,CAAC,QAAQ,CAAC;QAAE,SAAS,EAAE,MAAM,CAAC;QAAC,QAAQ,EAAE,MAAM,CAAA;KAAE,CAAC,EAAE,CAAC,CAAC;CAE3F"}

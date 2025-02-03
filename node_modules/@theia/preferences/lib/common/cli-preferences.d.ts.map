@@ -1,0 +1,1 @@
+{"version":3,"file":"cli-preferences.d.ts","sourceRoot":"","sources":["../../src/common/cli-preferences.ts"],"names":[],"mappings":"AAgBA,eAAO,MAAM,cAAc,eAA2B,CAAC;AACvD,eAAO,MAAM,kBAAkB,8BAA8B,CAAC;AAE9D,MAAM,WAAW,cAAc;IAC3B,cAAc,IAAI,OAAO,CAAC,CAAC,MAAM,EAAE,OAAO,CAAC,EAAE,CAAC,CAAC;CAClD"}

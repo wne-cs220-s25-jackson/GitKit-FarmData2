@@ -1,0 +1,1 @@
+{"version":3,"file":"electron-ws-connection-source.d.ts","sourceRoot":"","sources":["../../../src/electron-browser/messaging/electron-ws-connection-source.ts"],"names":[],"mappings":"AAiBA,OAAO,EAAE,+BAA+B,EAAE,MAAM,iDAAiD,CAAC;AAClG,OAAO,EAAE,yBAAyB,EAAE,MAAM,8CAA8C,CAAC;AAEzF;;;;GAIG;AACH,qBACa,iCAAkC,SAAQ,yBAA0B,YAAW,+BAA+B;;IAKvH,MAAM,IAAI,IAAI;CAMjB"}

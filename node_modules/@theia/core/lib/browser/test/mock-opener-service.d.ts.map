@@ -1,0 +1,1 @@
+{"version":3,"file":"mock-opener-service.d.ts","sourceRoot":"","sources":["../../../src/browser/test/mock-opener-service.ts"],"names":[],"mappings":"AAiBA,OAAO,EAAE,aAAa,EAAE,WAAW,EAAE,MAAM,mBAAmB,CAAC;AAE/D;;GAEG;AACH,qBACa,iBAAkB,YAAW,aAAa;IAE7C,UAAU,IAAI,OAAO,CAAC,WAAW,EAAE,CAAC;IAIpC,SAAS,IAAI,OAAO,CAAC,WAAW,CAAC;CAI1C"}

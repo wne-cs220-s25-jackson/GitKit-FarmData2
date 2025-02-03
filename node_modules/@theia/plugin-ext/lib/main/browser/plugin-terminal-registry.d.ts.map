@@ -1,0 +1,1 @@
+{"version":3,"file":"plugin-terminal-registry.d.ts","sourceRoot":"","sources":["../../../src/main/browser/plugin-terminal-registry.ts"],"names":[],"mappings":"AAkBA,qBACa,sBAAsB;IAE/B,aAAa,EAAE,CAAC,EAAE,EAAE,MAAM,KAAK,OAAO,CAAC,MAAM,CAAC,CAAC;IAE/C,KAAK,CAAC,SAAS,EAAE,MAAM,GAAG,OAAO,CAAC,MAAM,CAAC;CAG5C"}

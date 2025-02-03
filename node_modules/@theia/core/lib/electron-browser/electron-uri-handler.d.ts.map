@@ -1,0 +1,1 @@
+{"version":3,"file":"electron-uri-handler.d.ts","sourceRoot":"","sources":["../../src/electron-browser/electron-uri-handler.ts"],"names":[],"mappings":"AAgBA,OAAO,EAAE,+BAA+B,EAAE,aAAa,EAAE,MAAM,YAAY,CAAC;AAK5E,qBACa,8BAA+B,YAAW,+BAA+B;IAElF,SAAS,CAAC,QAAQ,CAAC,eAAe,EAAE,aAAa,CAAC;IAElD,UAAU,IAAI,IAAI;CAerB"}

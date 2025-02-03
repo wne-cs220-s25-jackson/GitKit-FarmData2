@@ -1,0 +1,1 @@
+{"version":3,"file":"abstract-reg-exp-filter.d.ts","sourceRoot":"","sources":["../../src/ovsx-router-filters/abstract-reg-exp-filter.ts"],"names":[],"mappings":"AAgBA,8BAAsB,oBAAoB;IAGlC,SAAS,CAAC,MAAM,EAAE,MAAM;gBAAd,MAAM,EAAE,MAAM;IAG5B,SAAS,CAAC,IAAI,CAAC,KAAK,EAAE,OAAO,GAAG,OAAO;CAG1C"}

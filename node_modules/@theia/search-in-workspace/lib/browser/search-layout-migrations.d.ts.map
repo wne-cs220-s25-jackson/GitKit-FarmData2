@@ -1,0 +1,1 @@
+{"version":3,"file":"search-layout-migrations.d.ts","sourceRoot":"","sources":["../../src/browser/search-layout-migrations.ts"],"names":[],"mappings":"AAiBA,OAAO,EAAE,+BAA+B,EAAE,iBAAiB,EAAE,sCAAsC,EAAE,MAAM,qDAAqD,CAAC;AAIjK,qBACa,6BAA8B,YAAW,+BAA+B;IACjF,QAAQ,CAAC,aAAa,KAAO;IAC7B,mBAAmB,CAAC,IAAI,EAAE,iBAAiB,EAAE,EAAE,MAAM,EAAE,EAAE,sCAAsC,GAAG,iBAAiB,GAAG,SAAS;CA4BlI"}
