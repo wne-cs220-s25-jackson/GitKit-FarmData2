@@ -1,0 +1,1 @@
+{"version":3,"file":"electron-token.d.ts","sourceRoot":"","sources":["../../src/electron-common/electron-token.ts"],"names":[],"mappings":"AAgBA;;;;;GAKG;AAEH,eAAO,MAAM,qBAAqB,EAAE,MAA+B,CAAC;AACpE,MAAM,WAAW,qBAAqB;IAClC,KAAK,EAAE,MAAM,CAAC;CACjB"}

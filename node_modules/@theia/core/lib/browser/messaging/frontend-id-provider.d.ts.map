@@ -1,0 +1,1 @@
+{"version":3,"file":"frontend-id-provider.d.ts","sourceRoot":"","sources":["../../../src/browser/messaging/frontend-id-provider.ts"],"names":[],"mappings":"AAmBA,eAAO,MAAM,kBAAkB,eAA+B,CAAC;AAE/D;;;GAGG;AACH,MAAM,WAAW,kBAAkB;IAC/B,KAAK,IAAI,MAAM,CAAC;CACnB;AAED,qBACa,yBAA0B,YAAW,kBAAkB;IAChE,SAAS,CAAC,QAAQ,CAAC,EAAE,SAAkB;IAEvC,KAAK,IAAI,MAAM;CAGlB"}

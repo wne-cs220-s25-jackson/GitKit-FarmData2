@@ -1,0 +1,1 @@
+{"version":3,"file":"electron-keyboard-layout-provider.d.ts","sourceRoot":"","sources":["../../../src/electron-node/keyboard/electron-keyboard-layout-provider.ts"],"names":[],"mappings":"AAkBA,OAAO,EAAE,sBAAsB,EAAE,oBAAoB,EAAE,MAAM,gDAAgD,CAAC;AAE9G,qBACa,8BAA+B,YAAW,sBAAsB;IAEzE,eAAe,IAAI,OAAO,CAAC,oBAAoB,CAAC;IAIhD,SAAS,CAAC,mBAAmB,IAAI,oBAAoB;CAOxD"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"file-download-data.d.ts","sourceRoot":"","sources":["../../../src/common/download/file-download-data.ts"],"names":[],"mappings":"AAkBA,MAAM,WAAW,gBAAgB;IAC7B,QAAQ,CAAC,IAAI,EAAE,MAAM,EAAE,CAAC;CAC3B;AAED,yBAAiB,gBAAgB,CAAC;IAC9B,SAAgB,EAAE,CAAC,GAAG,EAAE,OAAO,GAAG,GAAG,IAAI,gBAAgB,CAExD;CACJ"}

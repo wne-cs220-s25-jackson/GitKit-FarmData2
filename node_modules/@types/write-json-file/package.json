@@ -1,0 +1,22 @@
+{
+    "name": "@types/write-json-file",
+    "version": "2.2.1",
+    "description": "TypeScript definitions for write-json-file",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Denis Carriere",
+            "url": "https://github.com/DenisCarriere"
+        }
+    ],
+    "main": "",
+    "repository": {
+        "type": "git",
+        "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "peerDependencies": {},
+    "typesPublisherContentHash": "5b33376a091eaf829789fe7345b80be460f948f74a54d8fb7b5666e5487c2d9c",
+    "typeScriptVersion": "2.0"
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"reference-map.d.ts","sourceRoot":"","sources":["../../src/common/reference-map.ts"],"names":[],"mappings":"AAkBA,qBAAa,YAAY,CAAC,CAAC;IACvB,OAAO,CAAC,QAAQ,CAAC,WAAW,CAAwB;IACpD,OAAO,CAAC,OAAO,CAAK;IAEpB,iBAAiB,CAAC,KAAK,EAAE,CAAC,GAAG,MAAM;IAMnC,kBAAkB,CAAC,WAAW,EAAE,MAAM,GAAG,CAAC,GAAG,SAAS;IAMtD,GAAG,CAAC,WAAW,EAAE,MAAM,GAAG,CAAC,GAAG,SAAS;CAG1C"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"node-stopwatch.d.ts","sourceRoot":"","sources":["../../../src/node/performance/node-stopwatch.ts"],"names":[],"mappings":"AAAA;;;;;;;;;;;;;;gFAcgF;AAIhF,OAAO,EAAE,WAAW,EAAE,kBAAkB,EAAE,SAAS,EAAE,MAAM,cAAc,CAAC;AAE1E,qBACa,aAAc,SAAQ,SAAS;;IASxC,KAAK,CAAC,IAAI,EAAE,MAAM,EAAE,OAAO,CAAC,EAAE,kBAAkB,GAAG,WAAW;CASjE"}

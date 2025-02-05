@@ -1,0 +1,1 @@
+{"version":3,"file":"textmate-contribution.d.ts","sourceRoot":"","sources":["../../../src/browser/textmate/textmate-contribution.ts"],"names":[],"mappings":"AAgBA,OAAO,EAAE,gBAAgB,EAAE,MAAM,qBAAqB,CAAC;AAGvD;;GAEG;AACH,eAAO,MAAM,qCAAqC,eAAkD,CAAC;AACrG,MAAM,WAAW,qCAAqC;IAClD,wBAAwB,CAAC,QAAQ,EAAE,gBAAgB,GAAG,IAAI,CAAC;CAC9D;AACD,wBAAgB,oBAAoB,CAAC,UAAU,EAAE,MAAM,GAAG,MAAM,CAE/D"}

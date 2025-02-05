@@ -1,0 +1,1 @@
+{"version":3,"file":"git-resource-opener.d.ts","sourceRoot":"","sources":["../../../src/browser/diff/git-resource-opener.ts"],"names":[],"mappings":"AAgBA,OAAO,GAAG,MAAM,4BAA4B,CAAC;AAE7C,eAAO,MAAM,iBAAiB,eAA8B,CAAC;AAC7D,MAAM,WAAW,iBAAiB;IAC9B,IAAI,CAAC,SAAS,EAAE,GAAG,GAAG,OAAO,CAAC,IAAI,CAAC,CAAC;CACvC"}

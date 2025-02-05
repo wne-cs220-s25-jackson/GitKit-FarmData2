@@ -1,0 +1,1 @@
+{"version":3,"file":"os-preload-contribution.d.ts","sourceRoot":"","sources":["../../../src/browser/preload/os-preload-contribution.ts"],"names":[],"mappings":"AAiBA,OAAO,EAAM,iBAAiB,EAAE,MAAM,cAAc,CAAC;AACrD,OAAO,EAAE,mBAAmB,EAAE,MAAM,aAAa,CAAC;AAElD,qBACa,qBAAsB,YAAW,mBAAmB;IAG7D,SAAS,CAAC,QAAQ,CAAC,iBAAiB,EAAE,iBAAiB,CAAC;IAElD,UAAU,IAAI,OAAO,CAAC,IAAI,CAAC;CAUpC"}

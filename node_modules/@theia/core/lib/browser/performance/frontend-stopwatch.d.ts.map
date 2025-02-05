@@ -1,0 +1,1 @@
+{"version":3,"file":"frontend-stopwatch.d.ts","sourceRoot":"","sources":["../../../src/browser/performance/frontend-stopwatch.ts"],"names":[],"mappings":"AAAA;;;;;;;;;;;;;;gFAcgF;AAGhF,OAAO,EAAE,WAAW,EAAE,kBAAkB,EAAE,SAAS,EAAE,MAAM,cAAc,CAAC;AAE1E,qBACa,iBAAkB,SAAQ,SAAS;;IAS5C,KAAK,CAAC,IAAI,EAAE,MAAM,EAAE,OAAO,CAAC,EAAE,kBAAkB,GAAG,WAAW;CAmCjE"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"i18n-preload-contribution.d.ts","sourceRoot":"","sources":["../../../src/browser/preload/i18n-preload-contribution.ts"],"names":[],"mappings":"AAgBA,OAAO,EAAE,mBAAmB,EAAE,MAAM,aAAa,CAAC;AAIlD,OAAO,EAAE,kBAAkB,EAAE,MAAM,uCAAuC,CAAC;AAE3E,qBACa,uBAAwB,YAAW,mBAAmB;IAG/D,SAAS,CAAC,QAAQ,CAAC,kBAAkB,EAAE,kBAAkB,CAAC;IAEpD,UAAU,IAAI,OAAO,CAAC,IAAI,CAAC;CAqBpC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"editor-keybinding.d.ts","sourceRoot":"","sources":["../../src/browser/editor-keybinding.ts"],"names":[],"mappings":"AAmBA,OAAO,EAAE,sBAAsB,EAAE,kBAAkB,EAAE,MAAM,oCAAoC,CAAC;AAGhG,qBACa,4BAA6B,YAAW,sBAAsB;IAEvE,mBAAmB,CAAC,QAAQ,EAAE,kBAAkB,GAAG,IAAI;IAyBvD,OAAO,CAAC,UAAU;CAIrB"}

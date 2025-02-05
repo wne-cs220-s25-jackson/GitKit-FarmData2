@@ -1,0 +1,1 @@
+{"version":3,"file":"webview-backend-security-warnings.d.ts","sourceRoot":"","sources":["../../../src/main/node/webview-backend-security-warnings.ts"],"names":[],"mappings":"AAgBA,OAAO,EAAE,8BAA8B,EAAE,MAAM,sBAAsB,CAAC;AAKtE,qBACa,8BAA+B,YAAW,8BAA8B;IAEjF,UAAU,IAAI,IAAI;cAIF,gBAAgB,IAAI,OAAO,CAAC,IAAI,CAAC;CAgBpD"}

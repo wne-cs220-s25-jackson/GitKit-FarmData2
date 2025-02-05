@@ -1,0 +1,1 @@
+{"version":3,"file":"mock-resource-provider.d.ts","sourceRoot":"","sources":["../../../src/common/test/mock-resource-provider.ts"],"names":[],"mappings":"AAiBA,OAAO,GAAG,MAAM,kBAAkB,CAAC;AACnC,OAAO,EAAE,QAAQ,EAAE,MAAM,aAAa,CAAC;AAEvC,qBACa,oBAAoB;;IAIvB,GAAG,CAAC,GAAG,EAAE,GAAG,GAAG,OAAO,CAAC,QAAQ,CAAC;CAOzC"}

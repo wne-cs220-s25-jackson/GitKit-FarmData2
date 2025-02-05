@@ -1,0 +1,1 @@
+{"version":3,"file":"env-node-ext.d.ts","sourceRoot":"","sources":["../../../src/plugin/node/env-node-ext.ts"],"names":[],"mappings":"AAkBA,OAAO,EAAE,UAAU,EAAE,MAAM,QAAQ,CAAC;AAKpC;;;GAGG;AACH,qBACa,cAAe,SAAQ,UAAU;IAE1C,OAAO,CAAC,YAAY,CAAS;IAC7B,OAAO,CAAC,gBAAgB,CAAU;;IAelC;;OAEG;IACH,IAAa,SAAS,IAAI,MAAM,CAE/B;IAED,IAAI,eAAe,IAAI,OAAO,CAE7B;IAED,OAAO,CAAC,sBAAsB;CAMjC"}

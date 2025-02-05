@@ -1,0 +1,1 @@
+{"version":3,"file":"grammars-reader.d.ts","sourceRoot":"","sources":["../../../../src/hosted/node/scanners/grammars-reader.ts"],"names":[],"mappings":"AAiBA,OAAO,EAAE,iCAAiC,EAAE,oBAAoB,EAAE,MAAM,iBAAiB,CAAC;AAI1F,qBACa,cAAc;IAEjB,YAAY,CAAC,WAAW,EAAE,iCAAiC,EAAE,EAAE,UAAU,EAAE,MAAM,GAAG,OAAO,CAAC,oBAAoB,EAAE,CAAC;YAY3G,WAAW;CAoB5B"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"os-backend-provider.d.ts","sourceRoot":"","sources":["../../src/node/os-backend-provider.ts"],"names":[],"mappings":"AAiBA,OAAO,EAAE,EAAE,EAAE,iBAAiB,EAAE,MAAM,cAAc,CAAC;AAErD,qBACa,qBAAsB,YAAW,iBAAiB;IAC3D,YAAY,IAAI,OAAO,CAAC,EAAE,CAAC,IAAI,CAAC;CAGnC"}

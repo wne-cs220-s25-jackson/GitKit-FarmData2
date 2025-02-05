@@ -1,0 +1,1 @@
+{"version":3,"file":"localization-server.d.ts","sourceRoot":"","sources":["../../../src/common/i18n/localization-server.ts"],"names":[],"mappings":"AAgBA,OAAO,EAAE,YAAY,EAAE,MAAM,gBAAgB,CAAC;AAE9C,eAAO,MAAM,sBAAsB,yBAAyB,CAAC;AAE7D,eAAO,MAAM,kBAAkB,eAA+B,CAAC;AAE/D,MAAM,WAAW,kBAAkB;IAC/B,gBAAgB,CAAC,UAAU,EAAE,MAAM,GAAG,OAAO,CAAC,YAAY,CAAC,CAAC;CAC/D"}

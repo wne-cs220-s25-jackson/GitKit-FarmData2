@@ -1,0 +1,1 @@
+{"version":3,"file":"connection-source.d.ts","sourceRoot":"","sources":["../../../src/browser/messaging/connection-source.ts"],"names":[],"mappings":"AAgBA,OAAO,EAAE,OAAO,EAAE,KAAK,EAAE,MAAM,cAAc,CAAC;AAE9C,eAAO,MAAM,gBAAgB,eAA6B,CAAC;AAE3D;;GAEG;AACH,MAAM,WAAW,gBAAgB;IAC7B,mBAAmB,EAAE,KAAK,CAAC,OAAO,CAAC,CAAC;CACvC"}

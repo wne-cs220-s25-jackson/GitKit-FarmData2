@@ -1,0 +1,1 @@
+{"version":3,"file":"variable-resolver-frontend-contribution.spec.d.ts","sourceRoot":"","sources":["../../src/browser/variable-resolver-frontend-contribution.spec.ts"],"names":[],"mappings":"AA2BA,OAAO,EAAE,oBAAoB,EAAE,gBAAgB,EAAE,MAAM,YAAY,CAAC;AAwDpE,qBAAa,wBAAyB,YAAW,oBAAoB;IAEjE,iBAAiB,CAAC,SAAS,EAAE,gBAAgB,GAAG,IAAI;CAYvD"}

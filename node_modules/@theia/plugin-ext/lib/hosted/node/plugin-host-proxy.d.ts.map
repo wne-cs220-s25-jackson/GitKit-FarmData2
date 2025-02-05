@@ -1,0 +1,1 @@
+{"version":3,"file":"plugin-host-proxy.d.ts","sourceRoot":"","sources":["../../../src/hosted/node/plugin-host-proxy.ts"],"names":[],"mappings":"AAAA;;;;;;;;;;;;;;kFAckF;AAOlF,OAAO,EAAE,yBAAyB,EAAE,MAAM,kCAAkC,CAAC;AAC7E,OAAO,EAAE,gBAAgB,EAAE,MAAM,wBAAwB,CAAC;AAE1D,wBAAgB,oBAAoB,CAAC,YAAY,EAAE,gBAAgB,EAAE,cAAc,EAAE,yBAAyB,GAAG,IAAI,CAYpH"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"window.d.ts","sourceRoot":"","sources":["../../src/common/window.ts"],"names":[],"mappings":"AAgBA;;GAEG;AACH,eAAO,MAAM,mBAAmB,EAAE,MAAiB,CAAC;AAEpD;;GAEG;AACH,MAAM,WAAW,gBAAgB;IAC7B;;OAEG;IACH,QAAQ,CAAC,QAAQ,CAAC,EAAE,OAAO,CAAC;CAC/B;AAED,MAAM,WAAW,kBAAkB;IAC/B,CAAC,GAAG,EAAE,MAAM,GAAG,MAAM,CAAA;CACxB"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"electron-clipboard-service.d.ts","sourceRoot":"","sources":["../../src/electron-browser/electron-clipboard-service.ts"],"names":[],"mappings":"AAkBA,OAAO,EAAE,gBAAgB,EAAE,MAAM,8BAA8B,CAAC;AAEhE,qBACa,wBAAyB,YAAW,gBAAgB;IAE7D,QAAQ,IAAI,MAAM;IAIlB,SAAS,CAAC,KAAK,EAAE,MAAM,GAAG,IAAI;CAIjC"}
