@@ -22,7 +22,7 @@ If you are unfamiliar with [Zulip](https://zulip.com/) it is a group chat applic
 
 ### History ###
 
-FarmData2 is both a _second_ edition of it predecessor, FarmData, and the integration of _two_ related projects FarmData and AnimalData. These projects were conceived and built by Tim Wahls, Matt Steiman and many students to support operation of the Dickinson College Farm.  The FarmData2 project was initiated as a part of curricular redesign in the Computer Science Department at Dickinson College.  It is now an active part of several courses in the curriculum.  It provides students in these courses with early and sustained opportunities to learn and practice modern software development within the context of an open source software community.
+FarmData2 is both a _second_ edition of it predecessor, FarmData, and the integration of _two_ related projects FarmData and AnimalData. These projects were conceived and built by Tim Wahls, Matt Steiman and many students to support operation of [the Dickinson College Farm](https://www.dickinson.edu/farm).  The FarmData2 project was initiated as a part of curricular redesign in the Computer Science Department at Dickinson College.  It is now an active part of several courses in the curriculum.  It provides students in these courses with early and sustained opportunities to learn and practice modern software development within the context of an open source software community.
 
 ### Acknowledgements ###
 
