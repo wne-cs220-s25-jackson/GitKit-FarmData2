@@ -1,0 +1,356 @@
+[
+  {
+    "title": "Add Missing \"a\"",
+    "body": "Add the word \"a\" between \"in\" and \"module\" in the sentence \"JavaScript and CSS libraries can be included in module by adding them to the module configuration files\" under the \"JavaScript and CSS Libraries\" heading in the `README.md` file in the `farmdata2_modules/fd2_tabs/fd2_example` directory.",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ],
+    "preassigned": true
+  },
+  {
+    "title": "Format Role Names",
+    "body": "Change the role names \"manager,\" \"worker,\" and \"guest\" to be formatted in the same way that \"admin\" is.  They should be formatted using back-ticks (\\`) for code instead of (\\_) for italics to match \"admin\" in the second bullet point under \"FarmData2 Module Structure\" in the `README.md` file in the `farmdata2_modules/fd2_tabs/fd2_example` directory.",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "Round1"
+    ],
+    "preassigned": true
+  },
+  {
+    "title": "Add Missing \"with\"",
+    "body": "Add the word \"with\" between \"experiment\" and \"FarmData2\" in the sentence \"The FD2 Example tab is created by a sample module and can be used as a sandbox in which to learn about and experiment FarmData2 modules like those that produce the FieldKit and BarnKit tabs.\" at the end of the paragraph following the \"FarmData2 Modules\" heading in the `README.md` file in the `farmdata2_modules/fd2_tabs/fd2_example` directory.",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ],
+    "preassigned": true
+  },
+  {
+    "title": "Fix Missing \"t\" Typo",
+    "body": "Change \"ext\" to \"text\" in the phrase \"(e.g. button, ext field)\" at the end of bullet point 3 under \"Component Tests\" in the \"Cypress\" section of ONBOARDING.md.",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Fix \"comonent\" Typo",
+    "body": "Change \"comonent\" to \"component\" in the phrase \"A typical comonent test will:\" at the end of the first paragraph under \"Component Tests\" in the \"Cypress\" section of the `ONBOARDING.md` document.",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Lowercase \"f\" in \"farmOS\"",
+    "body": "In the paragraph in the \"FarmOS API\" section of the `ONBOARDING.md` file, all instances of \"FarmOS\" should be changed to \"farmOS\".",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Fix Missing \"t\" Typo",
+    "body": "Change \"ext\" to \"text\" in the phrase \" (e.g. button, ext field)\" at the end of bullet point 3 under \"End-To-End\" tests in the \"Cypress\" section of `ONBOARDING.md`.",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Fix Italics",
+    "body": "Change  \"_spec_s\" to \"\\*spec\\*s\" at the end of the sentence \"A test typically consists of a series of steps that are automated by the Cypress tests, called _spec_s.\" in the \"End-to-End Tests\" section under the \"Cypress\" heading in the`ONBOARDING.md` file. \r\n\r\nNote: The _spec_s or \\*spec\\*s is supposed to make the *spec* appear in italics.  However, it turns out that \\* works within a word but \\_ does not.",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Fix Typo of \"ad\" to \"as\"",
+    "body": "Change \"ad\" to \"as\" in the sentence \"An overview of Theia and its use ad an Integrated Development Environment.\" in the bullet point under \"Resources\" in the \"Editors\" section of the `ONBOARDING.md` file.",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Add Missing \"that\"",
+    "body": "Add \"that\" between \"tutorial\" and \"walks\" in the bullet point \"Git Immersion: A tutorial walks through a series of ...\" in the \"Prerequisites\" section of the `ONBOARDING.md` file.",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Correct typo in \"followign\" ",
+    "body": "Correct the typo of \"followign\" to \"following\" in the sentence \"The followign two guides walk through how to work with existing open source projects and essentially follow GitFlow:\" in the second bullet point under \"Resources\" in the \"Prerequisites\" section of the `ONBOARDING.md` file.",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Make it Plural",
+    "body": "Change \"it\" to \"its\" in the sentence \"The FarmData2 community uses Zulip as it communication platform.\" in the first sentence of the \"Communications\" section of the `ONBOARDING.md` file.",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Make Starts Singular",
+    "body": "Change \"starts\" to \"start\" in the sentence \"This command will starts up the docker containers that are used by FarmData2.\" in the \"Starting FarmData2\" section of `INSTALL.md.`",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Fix typo in \"command\"",
+    "body": "Change \"comman\" to \"command\" in the sentence \"But the above comman can be used ...\" that appears at the end of the \"Install the Sample Database Image\" section of the `INSTALL.md` document.",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Comma Usage",
+    "body": "Correct the comma usage in the sentence \"If you are unfamiliar with one or more of these technologies the ONBOARDING document provides additional information about each, as well as resources and activities for learning about them.\" that appears at the end of the \"Technology Onboarding\" section of the `CONTRIBUTING.md` document.\r\n\r\nAdd a comma between \"technologies\" and \"the ONBOARDING\"\r\nRemove the comma between \"about each\" and \"as well as\" ",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Make Update plural",
+    "body": "Change \"Update\" to \"Updates\" in the phrase \"Update to any of the FarmData2 documentation are welcome.\" in the first sentence of the \"Documentation\" section of the `CONTRIBUTING.md` file.",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Change \"is\" to \"it\"",
+    "body": "Correct the first \"is\" to be \"it\" in the phrase \"(e.g. platforms on which is is or is not seen).\" in the second bullet point under the \"Issue Gardening\" heading in the `CONTRIBUTING.md` file.",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Remove duplicate \"are\"",
+    "body": "The duplicate \"are\" should be removed from the phrase \"If you are are a user of FarmData2...\" that appears after the \"Bug Reports\" heading in the `CONTRIBUTING.md` document.",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Hyphenate step by step",
+    "body": "The adjective step by step should be hyphenated as step-by-step in the phrase \"The Install Directions give step by step instructions for getting FarmData2 up and running.\" just under the \"Participation\" heading in the `CONTRIBUTING.md` document.",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Typo in Licensing Section",
+    "body": "Fix the typo by changing \"it\" to \"its\" in the sentence that ends \"while protecting both the project and it community of contributors.\" in the \"Licensing\" section of the `CONTRIBUTING.md` document.",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Remove mention of AUTHORS.md",
+    "body": "The `AUTHORS.md` file has not been created.  The sentence \"The AUTHORS.md file contains a list of all contributors to the repository and is updated periodically.\" should be removed from the \"Attribution\" section of the `LICENSE.md` file.",
+    "labels": [
+      "documentation",
+      "invalid",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Contributors \"acknowledge\" the DCO",
+    "body": "Change the word \"completes\" to \"acknowledges\" in the phrase \"This is done explicitly when when a contributor completes the...\" in the \"Contributions\" section of the `LICENSE.md` file.",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Add Comma",
+    "body": "In the paragraph in the \"Description\" section of the `README.md` file add a comma after \"... veterinary care\" and before \"and logging...\".",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Make \"it\" possessive",
+    "body": "In the first sentence of the \"History\" section of the `README.md` file change the word \"it\" to be \"its\".",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Fix typo in \"Installing\"",
+    "body": "In the bulleted list under \"Full installation details...\" in the \"Prerequisites\" section of the `INSTALL.md` file, the word \"Intallling\" should be corrected to be \"Installing\".",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Change \"which\" to \"that\"",
+    "body": "In the first paragraph of the `LICENSE.md` file the phrase \"...the agreement which governs...\" should be changed to read \"...the agreement that governs...\"",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Remove extra word",
+    "body": "The final sentence in the `LICENSE.md` file ends with the word \"based\".  This word does not belong and should be removed.",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": " Fix typo in \"Covenent\"",
+    "body": "The word \"Covenant\" is misspelled as \"Covenent\" in the paragraph under the \"Code of Conduct\" heading in the `CONTRIBUTING.md` file and should be corrected.",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Fix typo in \"FarmdData2\"",
+    "body": "In the paragraph under the \"Bug Fix / Feature Implementation\" heading in `CONTRIBUTING.md`, the word \"FarmData2\" contains an extra \"d\" that should be removed.",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Add missing \"on\"",
+    "body": "In the 5th bullet point in the \"Workflow\" section of the `CONTRIBUTING.md` file add the word \"on\" between \"branch\" and \"your\"",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Fix typo in \"activities\"",
+    "body": "In the third paragraph under \"FarmData2 School\" in the `ONBOARADING.md` file, the word \"activities\" is misspelled as \"activites\" and should be corrected.",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Capitalize \"axios\"",
+    "body": "In the third bullet point under \"Resources\" in the \"FarmOS API\" section of the `ONBOARDING.md` file capitalize the word \"axios\" so that it is \"Axios\".",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Add missing \"n\"s",
+    "body": "In the paragraph in the \"Cypress\" section of the `ONBOARDING.md` file, the word \"running\" is missing an \"n\" in the phrase \"in isolation from the runing instance\" and also in the final sentence.  This should be corrected in both locations.",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Add missing \"s\"",
+    "body": "In the second bullet point under \"Resources\" in the \"End-to_End Tests\" section of the `ONBOARDING.md` file, the word \"Cypress\" is mispelled as \"Cypres\" and should be corrected. Also, the word \"work\" should be pluralized to \"works\"",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Fix typo in \"initializtion\"",
+    "body": "In the paragraph in the \"drush\" section of the `ONBOARDING.md` file, the word \"initialization\" is misspelled as \"initializtion\" and should be corrected.",
+    "labels": [
+      "documentation",
+      "Typos",
+      "Round1"
+    ]
+  },
+  {
+    "title": "Dickinson College Farm Link",
+    "body": "Change the text \"the Dickinson College Farm\" into a link to the farm in the History section of README.md.\r\n\r\nThe URL to use for the link is: https://www.dickinson.edu/farm\r\n\r\nThe \"Links\" section of the following document shows how to create a link using Markdown:\r\n- https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax",
+    "labels": [
+      "documentation",
+      "Links",
+      "Round2"
+    ]
+  },
+  {
+    "title": "NSF Award Link",
+    "body": "Make the text \"DUE-2013069\" into a link to the award in the Acknowledgments section at the bottom of the README.md file.\r\n\r\nThe URL to use for the link is: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2013069\r\n\r\nThe \"Links\" section of the following document shows how to create a link using Markdown:\r\n- https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax",
+    "labels": [
+      "documentation",
+      "Links",
+      "Round2"
+    ]
+  },
+  {
+    "title": "GNOME CEC Link",
+    "body": "Make the phrase \"GNOME Community Engagement Challenge\" into a link in the Acknowledgements at the bottom of the README.md file.\r\n\r\nThe URL to use for the link is: https://www.gnome.org/challenge/\r\n\r\nThe \"Links\" section of the following document shows how to create a link using Markdown:\r\n- https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax",
+    "labels": [
+      "documentation",
+      "Links",
+      "Round2"
+    ]
+  },
+  {
+    "title": "Add farmOS Link",
+    "body": "Change the word \"farmOS\" into a link in the Acknowledgements at the bottom of README.md.  \r\n\r\nThe URL to use for the link is: https://farmos.org/\r\n\r\nThe \"Links\" section of the following document shows how to create a link using Markdown:\r\n- https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax",
+    "labels": [
+      "documentation",
+      "Links",
+      "Round2"
+    ]
+  }
+]
