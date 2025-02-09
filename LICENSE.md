@@ -1,6 +1,6 @@
 ## FarmData2 Licensing Information ##
 
-FarmData2 is a [Free Cultural Work].  This document outlines the licenses that apply to FarmData2 and the agreement which governs contributions.  Complete copies of these documents can be be found in the [licenses directory]. All copies and forks of FarmData2 must be maintained in compliance with those licenses.
+FarmData2 is a [Free Cultural Work].  This document outlines the licenses that apply to FarmData2 and the agreement that governs contributions.  Complete copies of these documents can be be found in the [licenses directory]. All copies and forks of FarmData2 must be maintained in compliance with those licenses.
 
 [Free Cultural Work]: https://freedomdefined.org/Definition
 [licenses directory]: licenses
