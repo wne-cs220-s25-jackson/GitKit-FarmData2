@@ -33,7 +33,7 @@ Support and assistance with FarmData2 development has been received from [The No
 The development of FarmData2 has received partial support from:
 * The [GNOME Community Engagement Challenge](https://not.the.right.link3):
   * [![Phase 1 Badge](media/GNOME-CEC-p1-small.png)](media/GNOME-CEC-p1.png)[![Phase 2 Badge](media/GNOME-CEC-p2-small.png)](media/GNOME-CEC-p2.png)    
-* The National Science Foundation ([DUE-2013069](https://not.the.right.link4)) - Collaborative Research: Broadening Participation in Computing through Authentic, Collaborative Engagement with Computing for the Greater Good.
+* The National Science Foundation ([DUE-2013069](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2013069)) - Collaborative Research: Broadening Participation in Computing through Authentic, Collaborative Engagement with Computing for the Greater Good.
 * [Zulip](https://zulip.com) provides sponsored hosting for [FarmData2 community discussions](https://farmdata2.zulipchat.com/#narrow/stream/270883-general).
 
 ---
