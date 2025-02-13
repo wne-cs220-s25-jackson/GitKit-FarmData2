@@ -16,6 +16,7 @@ If you are interesting in contributing to the development of FarmData2 see the [
 
 ### Connecting ###
 
+
 Connect with the [FarmData2 community on Zulip](https://farmdata2.zulipchat.com/).
 
 If you are unfamiliar with [Zulip](https://zulip.com/) it is a group chat application that blends the benefits of threaded discussions with live chat. Zulip is relatively easy to use once you understand the key ideas of [streams and topics](https://zulip.com/help/about-streams-and-topics).
@@ -33,7 +34,7 @@ Support and assistance with FarmData2 development has been received from [The No
 The development of FarmData2 has received partial support from:
 * The [GNOME Community Engagement Challenge](https://not.the.right.link3):
   * [![Phase 1 Badge](media/GNOME-CEC-p1-small.png)](media/GNOME-CEC-p1.png)[![Phase 2 Badge](media/GNOME-CEC-p2-small.png)](media/GNOME-CEC-p2.png)    
-* The National Science Foundation ([DUE-2013069](https://not.the.right.link4)) - Collaborative Research: Broadening Participation in Computing through Authentic, Collaborative Engagement with Computing for the Greater Good.
+* The National Science Foundation [DUE-2013069](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2013069) - Collaborative Research: Broadening Participation in Computing through Authentic, Collaborative Engagement with Computing for the Greater Good.
 * [Zulip](https://zulip.com) provides sponsored hosting for [FarmData2 community discussions](https://farmdata2.zulipchat.com/#narrow/stream/270883-general).
 
 ---
